@@ -56,7 +56,6 @@ oks = []
 id = []
 def menu():
         os.system('clear')
-        print logo
         print "\033[1;92mCYBER_HACKER_GLAXY_R.H.P_1.286-Wellcome"
         print
         print "\033[1;91mATTACK ON INDIAN NETWORKS"
@@ -196,3 +195,6 @@ def action():
 
 if __name__ == '__main__':
         menu()
+
+
+
